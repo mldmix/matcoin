@@ -1,4 +1,0 @@
-qt/qt_libmatcoinqt_a-qrc_matcoin_locale.o: qt/qrc_matcoin_locale.cpp \
- /usr/include/stdc-predef.h
-
-/usr/include/stdc-predef.h:
